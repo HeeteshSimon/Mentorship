@@ -75,5 +75,5 @@ The transition probability matrix can be represented as a heat map with the
 y-axis representing the current state and x-axis the next one. The more blueish
 the color, the more probable the indicated transition will occur.
 <br>
-
-
+![Heat Map!](https://github.com/HeeteshSimon/Mentorship/blob/master/Heat-Map.png)
+![Graph!](https://github.com/HeeteshSimon/Mentorship/blob/master/round-table.gv_page-0001.jpg)
